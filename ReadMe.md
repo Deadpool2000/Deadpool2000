@@ -102,10 +102,10 @@
 ## 🌐 FIND ME (if you can)
 
 <div align="center">
-
+  
+[![Email](https://img.shields.io/badge/Email-d2kyt@protonmail.com-e0d839?style=for-the-badge&logo=gmail&logoColor=white)](mailto:d2kyt@protonmail.com)
 [![Linktree](https://img.shields.io/badge/Linktree-deadpool2k-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/deadpool2k)
 [![Twitter/X](https://img.shields.io/badge/X-@D3adpool2K-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/D3adpool2K)
-[![OpenInitia](https://img.shields.io/badge/Org-OpenInitia-ff0033?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OpenInitia)
 
 </div>
 
