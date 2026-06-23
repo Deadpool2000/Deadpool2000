@@ -14,7 +14,7 @@
 **Full-Stack Dev · Security Tinkerer · Open Source Mercenary**  
 *Writing code, breaking things, and occasionally fixing them.*
 
-[![Followers](https://img.shields.io/github/followers/Deadpool2000?label=161%20Followers&style=for-the-badge&color=ff0033&labelColor=0d0d0d)](https://github.com/Deadpool2000?tab=followers)
+[![Followers](https://img.shields.io/github/followers/Deadpool2000?20Followers&style=for-the-badge&color=ff0033&labelColor=0d0d0d)](https://github.com/Deadpool2000?tab=followers)
 [![Stars](https://img.shields.io/badge/Stars%20Earned-570%2B-FFD700?style=for-the-badge&labelColor=0d0d0d)](https://github.com/Deadpool2000)
 [![Repos](https://img.shields.io/badge/Public%20Repos-47-00ff9f?style=for-the-badge&labelColor=0d0d0d)](https://github.com/Deadpool2000?tab=repositories)
 [![Location](https://img.shields.io/badge/🇮🇳%20India-Based-ff6b35?style=for-the-badge&labelColor=0d0d0d)](https://github.com/Deadpool2000)
