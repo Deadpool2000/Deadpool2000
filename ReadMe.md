@@ -1,13 +1,10 @@
 <div align="center">
 
-```
-██████╗ ██████╗ ██╗  ██╗
-██╔══██╗╚════██╗██║ ██╔╝
-██║  ██║ █████╔╝█████╔╝
-██║  ██║██╔═══╝ ██╔═██╗
-██████╔╝███████╗██║  ██╗
-╚═════╝ ╚══════╝╚═╝  ╚═╝
-```
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Deadpool2000/Deadpool2000/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Deadpool2000/Deadpool2000/output/github-contribution-grid-snake.svg" />
+  <img alt="A snake eating my contribution graph" src="https://raw.githubusercontent.com/Deadpool2000/Deadpool2000/output/github-contribution-grid-snake.svg" />
+</picture>
 
 # `> Salil` — also known as **Deadpool2000**
 
