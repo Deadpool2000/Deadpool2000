@@ -68,8 +68,6 @@
 <img height="200" src="https://github-readme-stats.vercel.app/api/wakatime?username=Deadpool2000&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=ff0033&text_color=c9d1d9&layout=compact" />
 </p>
 
-> Swapped the stats + top-langs cards to **github-stats-extended** — that's the actively maintained successor the original github-readme-stats repo now points people to, since its own public Vercel instance has been getting hit with outages and rate limits. Streak card moved off the old `herokuapp.com` domain (long dead) to `streak-stats.demolab.com`, its current home. The WakaTime card only fills in once WakaTime is connected — remove it if you don't track coding time there.
-
 ---
 
 ### 📈 Contribution Activity
@@ -83,12 +81,7 @@
 ### 🕒 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-<!-- This section auto-fills once the workflow below is added to this repo. -->
 <!--END_SECTION:activity-->
-
-<sub>Auto-updates daily via GitHub Actions — see `recent-activity-workflow.yml` for the one-time setup.</sub>
-
-<sub>ℹ️ **Why cards sometimes don't load:** the stats/streak/trophy widgets above are free public instances run by other maintainers on Vercel's hobby tier — they get rate-limited or paused at times, independent of anything in this file. If a card is down for more than a day or two, the permanent fix is deploying your own copy (one-click "Deploy to Vercel" button on each project's GitHub repo) and swapping the URL to your instance.</sub>
 
 ---
 
@@ -104,8 +97,6 @@
 | [**pyurlextract**](https://github.com/Deadpool2000/pyurlextract) | Rips all links and redirections from short URLs. | ![Stars](https://img.shields.io/github/stars/Deadpool2000/pyurlextract?style=flat-square&label=) | ![Forks](https://img.shields.io/github/forks/Deadpool2000/pyurlextract?style=flat-square&label=) |
 | [**Bulk-QR-Code-Generator**](https://github.com/Deadpool2000/Bulk-QR-Code-Generator) | Generate QR codes in bulk. | ![Stars](https://img.shields.io/github/stars/Deadpool2000/Bulk-QR-Code-Generator?style=flat-square&label=) | ![Forks](https://img.shields.io/github/forks/Deadpool2000/Bulk-QR-Code-Generator?style=flat-square&label=) |
 
-<sub>Star/fork counts above are live shields.io badges — they refresh on every page load, no manual updates needed.</sub>
-
 ---
 
 ### 🏆 Achievements Unlocked
@@ -113,8 +104,6 @@
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Deadpool2000&theme=matrix&no-frame=true&no-bg=true&margin-w=8&row=1" />
 </p>
-
-> If trophies don't render: this is a separate service (`github-profile-trophy`) from the stats cards above, hosted on its own free Vercel instance, so it has the same class of outage risk. It's usually a transient 503 — reload after a bit. If it stays broken, the fix is the same self-host route noted below.
 
 ---
 
