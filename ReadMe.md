@@ -81,11 +81,11 @@
 ### 🕒 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#718](https://github.com/MakazhanAlpamys/Soup/pull/718#issuecomment-5733970449) in [MakazhanAlpamys/Soup](https://github.com/MakazhanAlpamys/Soup)
-2. 🎉 Merged PR [#718](https://github.com/MakazhanAlpamys/Soup/pull/718) in [MakazhanAlpamys/Soup](https://github.com/MakazhanAlpamys/Soup)
-3. 🗣 Commented on [#718](https://github.com/MakazhanAlpamys/Soup/pull/718#issuecomment-5693222795) in [MakazhanAlpamys/Soup](https://github.com/MakazhanAlpamys/Soup)
-4. 🗣 Commented on [#718](https://github.com/MakazhanAlpamys/Soup/pull/718#issuecomment-5653266830) in [MakazhanAlpamys/Soup](https://github.com/MakazhanAlpamys/Soup)
-5. 🗣 Commented on [#718](https://github.com/MakazhanAlpamys/Soup/pull/718#issuecomment-5622773805) in [MakazhanAlpamys/Soup](https://github.com/MakazhanAlpamys/Soup)
+1. 🎉 Merged PR [#21](https://github.com/openapi/openapi-python-sdk/pull/21) in [openapi/openapi-python-sdk](https://github.com/openapi/openapi-python-sdk)
+2. 🗣 Commented on [#718](https://github.com/MakazhanAlpamys/Soup/pull/718#issuecomment-5733970449) in [MakazhanAlpamys/Soup](https://github.com/MakazhanAlpamys/Soup)
+3. 🎉 Merged PR [#718](https://github.com/MakazhanAlpamys/Soup/pull/718) in [MakazhanAlpamys/Soup](https://github.com/MakazhanAlpamys/Soup)
+4. 🗣 Commented on [#718](https://github.com/MakazhanAlpamys/Soup/pull/718#issuecomment-5693222795) in [MakazhanAlpamys/Soup](https://github.com/MakazhanAlpamys/Soup)
+5. 🗣 Commented on [#718](https://github.com/MakazhanAlpamys/Soup/pull/718#issuecomment-5653266830) in [MakazhanAlpamys/Soup](https://github.com/MakazhanAlpamys/Soup)
 <!--END_SECTION:activity-->
 
 ---
